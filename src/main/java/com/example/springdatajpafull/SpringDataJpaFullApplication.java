@@ -1,0 +1,13 @@
+package com.example.springdatajpafull;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringDataJpaFullApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringDataJpaFullApplication.class, args);
+    }
+
+}
